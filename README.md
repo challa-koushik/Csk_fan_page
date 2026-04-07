@@ -7,7 +7,7 @@ Designed to capture the spirit of the **Yellow Army** with smooth animations, in
 
 ## 🔥 Live Demo
 
-👉 https://challa-koushik.github.io/ShadowFox/csk/
+👉 https://challa-koushik.github.io/Csk_fan_page/
 
 ---
 
